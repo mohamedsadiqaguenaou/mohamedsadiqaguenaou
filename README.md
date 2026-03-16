@@ -1,6 +1,6 @@
 # Hey, I'm Mohamed Sadiq
 
-Welcome to my GitHub. I'm a web developer and a vibecoder—I focus on the big picture, get into a good flow state, and love building creative applications without overcomplicating things.
+Welcome to my GitHub. I'm a web developer and a vibecoder, I focus on the big picture, get into a good flow state, and love building creative applications without overcomplicating things.
 
 ### What I'm up to
 
